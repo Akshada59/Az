@@ -130,16 +130,19 @@
   <h2>1. Virtual Machine and Deployment</h2>
   <hr>
   
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/0f0d1481-a8a7-4b7d-bbff-034b8fa2201c)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/bcee7a1d-caec-445f-afc8-286cbeb1212b)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/a61197b0-fd35-4787-85ce-d3c0f9c23e7b)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/3a006afa-106f-4d95-8398-0914c08e6263)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/de607b6c-610b-4ac4-9ae6-fe336e0c1716)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/2f2813fd-d0c7-45ea-b62b-bc7d692b72a3)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/6dcaec8b-4e30-4cde-84a3-26d0124b4b03)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/6dc22f8a-3988-4a04-ad39-cbfc75894879)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/0e34c5f9-ed63-4a08-8115-2eae78edcfaf)
-![image](https://github.com/Akshada59/Azureproject/assets/138954560/b0228a17-92a1-41a5-a010-b91aafc3b8cf)
+  ![image](https://github.com/Akshada59/Az/assets/121304123/3b7215b4-cce9-4924-a802-e698ae28ffd5)
+![image](https://github.com/Akshada59/Az/assets/121304123/28536f93-9d2c-4c75-b039-445d9acd0819)
+![image](https://github.com/Akshada59/Az/assets/121304123/9e529446-92d5-4b14-a3ed-cb69075a148d)
+![image](https://github.com/Akshada59/Az/assets/121304123/7168a8af-3ad7-4f10-8f56-565f6ad90a47)
+![image](https://github.com/Akshada59/Az/assets/121304123/4b2611a4-27ff-4741-80b5-37e647f43934)
+![image](https://github.com/Akshada59/Az/assets/121304123/9b01d64c-2457-4ef3-8ae4-8471721ec322)
+![image](https://github.com/Akshada59/Az/assets/121304123/cb45221c-24b1-4ad1-b876-0fa70c5f1aa3)
+![image](https://github.com/Akshada59/Az/assets/121304123/7d5e0b69-e603-49de-9f66-dcf8c365b6f6)
+![image](https://github.com/Akshada59/Az/assets/121304123/688652dc-a717-4862-b4d7-ffe6612c5afc)
+![image](https://github.com/Akshada59/Az/assets/121304123/3e9aa161-ac8a-439e-bd2a-34b69ac8e93e)
+![image](https://github.com/Akshada59/Az/assets/121304123/80763987-9234-4507-97e4-33e033f9c7d3)
+
+
 <hr>
 
  <h2>2. AI Service Chatbot</h2>
