@@ -10,6 +10,7 @@
   <ul>
     <li>Web Application hosted on Azure: <a href="http://172.191.80.84/azure/index.php"> Ethnic_jewellery </a></li>
     <li>Github Repository: <a href="https://github.com/Akshada59/Az">Azure_Project_Repository </a></li>
+    <li>Detailed video link: <a href="https://photos.app.goo.gl/pLvANLGXevBCu9Fd7">Detailed_video_link </a></li>
     <li>Project Documentation With Project Videos: <a href="https://drive.google.com/drive/folders/1QYfl4MXiELvct8XdxBHmDFbHIdRq7oL7?usp=drive_link">Drive_Link</a></li>
     <li>Short video: <a href="https://drive.google.com/file/d/1PY8rf1ET0PnV9oib_l4CeidmPo5eMgOd/view?usp=drive_link">Short_VIDEO_LINK</a></li>
     <li>Full detailed video: <a href="https://drive.google.com/file/d/16IsMfVojNo19QESLVvWTlCcTMOaMkPdF/view?usp=drive_link">Detailed_VIDEO_LINK</a></li>
