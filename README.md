@@ -130,7 +130,7 @@
   <h2>1. Virtual Machine and Deployment</h2>
   <hr>
   
-   ![image](https://github.com/Akshada59/Azureproject/assets/138954560/0f0d1481-a8a7-4b7d-bbff-034b8fa2201c)
+![image](https://github.com/Akshada59/Azureproject/assets/138954560/0f0d1481-a8a7-4b7d-bbff-034b8fa2201c)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/bcee7a1d-caec-445f-afc8-286cbeb1212b)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/a61197b0-fd35-4787-85ce-d3c0f9c23e7b)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/3a006afa-106f-4d95-8398-0914c08e6263)
@@ -147,7 +147,7 @@
 
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/c2cfda09-64d3-482e-8042-97c150905600)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/20216bc6-74d0-488d-9db2-d49a4396abc6)
-  ![image](https://github.com/Akshada59/Azureproject/assets/138954560/34a93533-fc62-418a-a30d-6712bf26843a)
+![image](https://github.com/Akshada59/Azureproject/assets/138954560/34a93533-fc62-418a-a30d-6712bf26843a)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/67d4f25b-8686-4105-8424-9bc53a5a1deb)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/6fec991b-4d69-4df5-9169-14c74d8eff96)
 ![image](https://github.com/Akshada59/Azureproject/assets/138954560/7657b039-b86a-4964-9ffd-b95255d97be3)
