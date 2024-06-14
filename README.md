@@ -13,7 +13,7 @@
     <li>Project Documentation With Project Videos: <a href="https://drive.google.com/drive/folders/1QYfl4MXiELvct8XdxBHmDFbHIdRq7oL7?usp=drive_link">Drive_Link</a></li>
     <li>Short video: <a href="https://drive.google.com/file/d/1PY8rf1ET0PnV9oib_l4CeidmPo5eMgOd/view?usp=drive_link">Short_VIDEO_LINK</a></li>
     <li>Full detailed video: <a href="https://drive.google.com/file/d/16IsMfVojNo19QESLVvWTlCcTMOaMkPdF/view?usp=drive_link">Detailed_VIDEO_LINK</a></li>
-    <li>Documentation: <a href="https://drive.google.com/file/d/1vZPU6xKs59phGIsBm339peQhnVS8wvx4/view?usp=drive_link">Documentation_pdf</a></li>
+    <li>Documentation: <a href="https://drive.google.com/file/d/1CjN2YVI6m4wCDNOXR-h6H3OftrOBLR7K/view?usp=drive_link">Documentation_pdf</a></li>
   </ul>
   <hr>
 
